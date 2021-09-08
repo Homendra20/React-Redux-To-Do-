@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.CompA{
+  
+  margin-top: 100px;
+
+  
+}
+.heading{
+  text-align: center;
+  border: 2px solid black;
+  background-color: rgb(138, 70, 138);
+  color: whitesmoke;
+  border-radius: 6px;
+  width: 500px;
+  margin-left: 500px;
+}
+.container{
+  text-align: center;
+  
+}
+.input1{
+  width: 500px;
+  margin-left: 10px;
+  margin-right: 50px;
+  margin-top: 20px;
+  padding: 10px 140px 10px 140px;
+  border-radius: 6px;
+}
+.input2{
+  display: inline-block;
+  margin-top: 20px;
+  padding: 20px 80px;
+  margin-right: 210px;
+  border-radius: 6px;
+}
+.date{
+  display: inline-block;
+/* padding: 10px 30px 10px 30px; */
+margin-left: 300px;
+flex-direction: top;
+
+}
+.button{
+  background-color: blue;
+  color: white;
+  margin-top: 10px;
+  margin-right: 200px;
+display: inline-block;
+padding: 10px 50px 10px 50px;
+border-radius: 6px;
+
+
+}
+  .button:hover{
+  color: rgb(96, 241, 12);
+  background-color: black;
+}
+.inp {
+  font-size: 20px;
+  color: white;
+}
+.delButton{
+  color: white;
+  background-color: red;
+  border-radius: 6px;
+  padding: 10px 50px 10px 50px;
+}
+
+@media  (max-width: 991px) {
+  }
+
+
+@media only screen and (min-width: 600px) {
+  
+}
+
+
+@media only screen and (min-width: 768px) {
+ 
+}
+
+
+@media only screen and (min-width: 992px) {
+  
+}
+
+
+@media only screen and (min-width: 1200px) {
+ 
+}
